@@ -1,16 +1,30 @@
-## Hi there 👋
+# Olá, eu sou a [Seu Nome]! 👋
 
-<!--
-**anaclaratavareschagas-coder/anaclaratavareschagas-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante do 1º ano do Ensino Médio Técnico em Informática. Apaixonada por tecnologia e em constante aprendizado!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 O que estou estudando no momento:
+- 🌐 **Front-end:** HTML5, CSS3 e JavaScript
+- 💻 **Fundamentos:** Algoritmos, Lógica de Programação e Arquitetura
+- 🛠️ **Ferramentas:** Git e GitHub
+
+---
+
+### 🛠️ Minhas Stacks & Ferramentas:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+### 🎯 Meus Objetivos:
+- [ ] Criar meu primeiro site responsivo
+- [ ] Desenvolver pequenos projetos interativos em JavaScript
+- [ ] Aprender a publicar meus sites usando o GitHub Pages
+
+---
+
+📫 **Como me encontrar:** 
+- Email: [seu-email@exemplo.com]
+- LinkedIn: [Seu Link do LinkedIn]
