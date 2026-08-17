@@ -1,4 +1,4 @@
-# Olá, eu sou a [Seu Nome]! 👋
+# Olá, eu sou a Ana Clara! 👋
 
 Estudante do 1º ano do Ensino Médio Técnico em Informática. Apaixonada por tecnologia e em constante aprendizado!
 
